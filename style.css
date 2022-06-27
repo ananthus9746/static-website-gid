@@ -4,11 +4,9 @@ body{
     overflow:hidden;
     /* font-family: 'Roboto Slab', serif; */
     font-family: 'Ubuntu', sans-serif;
-    height: -webkit-fill-available;
+
 }
-html{
-    height: -webkit-fill-available;
-}
+
 .container{
     height: 100vh
     display: grid;
